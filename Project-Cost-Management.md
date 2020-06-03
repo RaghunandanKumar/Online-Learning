@@ -2,7 +2,7 @@
 
 
 | Project Name: Online Learning                                                                                         |          | Presented by: Anshitha |          | Date:    | 5/23/2020 |          |         |             |            |
-|-----------------------------------------------------------------------------------------------------------------------|----------|------------------------|----------|----------|-----------|----------|---------|-------------|------------|
+
 |                                                                                                                       |          |                        |          |          |           |          |         |             |            |
 |                                                                                                                       | Internal | $/hour                 | Internal | External | $/hour    | External | Total   | Non-labor $ | Total Cost |
 | WBS Categories                                                                                                        | Labor    |                        | $ Total  | Labor    |           | $ Total  | Labor   |             |            |
