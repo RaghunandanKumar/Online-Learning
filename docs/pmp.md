@@ -95,6 +95,7 @@ A project progress report is sent across all the stakeholders via an Email. Ragh
 
 ### 3. Escalation procedures for resolving issues:
 
+
 To report any development issues in the project, the below escalation matrix is used 
 	
 	Pratapa/Anshitha --> Priyanka --> Raghunandan --> Client
