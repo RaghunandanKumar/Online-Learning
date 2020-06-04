@@ -22,7 +22,7 @@
 4.	Better Customer Service 
 
 
-<h4>Project management-related deliverables:</h4> Project charter, stakeholder register, Scope statement, WBS, Schedule, SWOT analysis, Wireframe, Cost baseline, design presentation, inspection reports, Project Gantt chart, defect logs, project presentation, project report, Lessons-learned report, and any other documents required to manage the project.
+<h4>Project management-Related deliverables:</h4> Project charter, stakeholder register, Scope statement, WBS, Schedule, SWOT analysis, Wireframe, Cost baseline, design presentation, inspection reports, Project Gantt chart, defect logs, project presentation, project report, Lessons-learned report, and any other documents required to manage the project.
 
 
 ### Work Breakdown Structure (WBS)
