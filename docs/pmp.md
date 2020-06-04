@@ -29,19 +29,19 @@
 
 The following is the link for WBS
 
-[WBS](link to be updated)
+[WBS](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/wbs.md)
 
 ## Project Schedule Management Plan
 
 ### Gantt chart
 
-![Gantt](Gantt chart link to be posted here)
+![Gantt](https://github.com/RaghunandanKumar/Online-Learning/blob/master/images/ganttchart.PNG)
 
 ### Sprint Backlog
 
 The following is the link for spring backlog
 
-[Sprint Backlog](Sprint details here)
+[Sprint Backlog](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/Sprint%20Backlog.md)
 
 ## Project Cost Management Plan
 
@@ -77,7 +77,7 @@ The QMP identifies these key components:
 
 Below is link for Resource management plan
 
-[Resource Management Plan](Resourse Management Plan link to be posted here)
+[Resource Management Plan](https://docs.google.com/document/d/1ctfkglKyHffbSx82KbJ5Q5J3uv2Pc0nm6IaNwP-P_i0/edit?usp=sharing)
 
 ## Project Communication Management Plan
 

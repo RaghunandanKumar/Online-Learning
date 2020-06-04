@@ -1,7 +1,7 @@
 ## Project Charter
 
-[link]
+[Project Charter](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/ProjectCharter.md)
 
 ## Project Management Plan
 
-[link]
+[Project Management Plan](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/pmp.md)

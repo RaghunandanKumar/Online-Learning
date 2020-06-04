@@ -1,7 +1,7 @@
 ## Gantt Chart
 
-[link]
+![](https://github.com/RaghunandanKumar/Online-Learning/blob/master/images/ganttchart.PNG)
 
-## Artifact
+## Sprint Backlog
 
-[link]
+[Sprint Backlog](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/Sprint%20Backlog.md)

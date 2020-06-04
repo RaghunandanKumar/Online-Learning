@@ -1,7 +1,7 @@
 ## Requirements Specifications & Scope Statement
 
-[link]
+[Requirements Specifications & Scope Statement](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/pmp.md)
 
 ## Work Breakdown Structure
 
-[link]
+[Work Breakdown Structure](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/wbs.md)
