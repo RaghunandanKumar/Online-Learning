@@ -31,13 +31,13 @@
  
 
  <h3>Budget for this project</h3><hr />
-<p>10000</p>
+<p>$10000</p>
 <h2> Roles</h2><hr />
 
-<p>Raghunandan Naishadam: Project Manager/Web application Developer
+<p>Raghunandan Naishadam: Project Manager / Web application Developer
 </p>
 
-<p>Priyanka Bodapati: Team Lead/ User Interface Developer
+<p>Priyanka Bodapati: Team Lead / User Interface Developer
 </p>
 
 <p>Mohan Pratapa: Full Stack Developer</p>
