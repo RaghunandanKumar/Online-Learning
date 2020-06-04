@@ -25,23 +25,26 @@
 
 <h3>Project Team</h3><hr />
  <li>Raghunandan Naishadam</li>
- <li>Mohan Pratapa</li>
  <li>Priyanka Bodapati</li>
+ <li>Mohan Pratapa</li>
  <li>Naga Anshitha Velagapudi</li>
  
 
  <h3>Budget for this project</h3><hr />
-<p>Self Funded-15000</p>
+<p>10000</p>
 <h2> Roles</h2><hr />
-<p>Mohan Pratapa: Project Sponsor</p>
 
-<p>Raghunandan Naishadam: Project Manager/Developer</p>
+<p>Raghunandan Naishadam: Project Manager/Web application Developer
+</p>
 
-<p>Mohan Pratapa: Developer</p>
+<p>Priyanka Bodapati: Team Lead/ User Interface Developer
+</p>
 
-<p>Naga Anshitha Velagapudi: Tester</p>
+<p>Mohan Pratapa: Full Stack Developer</p>
 
-<p>Priyanka Bodapati: Project Lead/Quality Analyst</p>
+<p>Naga Anshitha Velagapudi: Web Application Developer</p>
+
+
 <br>
 <h2>Stakeholder Register</h2><br>
 <table style="width:100%;border: 1px solid black;">
@@ -53,74 +56,64 @@
 	<th>Expectations</th>
 	<th>Contact Info</th>
 </tr>
-  <tr>
-    <td>Aziz Fellah</td>
-    <td>Client</td> 
+<tr>
+    <td>Raghunandan Naishadam</td>
+    <td>Project Manager/Web application Developer
+</td> 
     <td>
 	Applied Computer Science</td>
-	 <td>External</td> 
-	 <td>Provide review comments and suggest improvements</td>
-	  <td>Northwest Missouri state university</td>
+	 <td>Internal</td> 
+	 <td>Develop, test and validate code</td>
+	  <td>naishadamraghu@gmail.com</td>
 </tr>
+<tr>
+    <td>Priyanka Bodapati</td>
+    <td>Team Lead/ User Interface Developer
+</td> 
+    <td>
+	Applied Computer Science</td>
+	 <td>Internal</td> 
+	 <td>Develop, test and validate code</td>
+	  <td>priyankab407@gmail.com</td> 
+  </tr>
   <tr>
     <td>Mohan Pratapa</td>
-    <td>Developer & Sponsor</td> 
+    <td>Full Stack Developer </td> 
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
-	 <td>Develop ,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>shivakrishnamohan@gmail.com</td> 
   </tr> 
- <tr>
-    <td>Raghunandan Naishadam</td>
-    <td>Project Manager</td> 
-    <td>
-	Applied Computer Science</td>
-	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
-	  <td>naishadamraghu@gmail.com</td>
-</tr>
-  <tr>
+   <tr>
     <td>Naga Anshitha Velagapudi</td>
-    <td>Tester</td> 
+    <td>Web Application Developer</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
+	 <td>Develop, test and validate code</td>
 	  <td>anshithavelagapudi@gmail.com</td> 
   </tr> 
-<tr>
-    <td>Priyanka Bodapati</td>
-    <td>Quality Analyst</td> 
-    <td>
-	Applied Computer Science</td>
-	 <td>Internal</td> 
-	 <td>Develop,test and validate code</td>
-	  <td>priyankab407@gmail.com</td> 
-  </tr>
+
 </table>
 <br> 
 <h3>Milestones</h3><hr />
-<br>1. 
-Project Charter,
+<br>1. Project Charter,
 Contribution of team members,
 Artifacts
 <br>
-2.
-Requirements,
+2. Requirements,
 Integration,
 Scope,
 Schedule/Time,
 Cost Management
 <br>
-3.
-Quality,
+3. Quality,
 Resource,
 Communications,
 Risk Management
 <br>
-4.
-Procurement management,
+4. Procurement management,
 Stakeholder management
 <br>
  <h3>Schedule:</h3>
@@ -137,5 +130,4 @@ Stakeholder management
 <p>This helps students to learn from home and faculty to teach from home through online.</p> 
  </body>
 </html>
-
 
