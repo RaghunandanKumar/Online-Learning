@@ -29,7 +29,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 
 ## Team Logo:
 
-[!link](https://github.com/RaghunandanKumar/Online-Learning/blob/master/images/logo.jpg)
+![](https://github.com/RaghunandanKumar/Online-Learning/blob/master/images/logo.jpg)
 
 ## Roles:
 
