@@ -6,15 +6,15 @@ This project is a user friendly and easy to navigate website with a quality cont
 
 ## Project Repository:
 
-[link]
+[Online Learning](https://github.com/RaghunandanKumar/Online-Learning)
 
 ## Project Management Plan link:
 
-[link]
+[Project Management Plan](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/pmp.md)
 
 ## Work Breakdown Structure link:
 
-[link]
+[Work Breakdown Structure](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/wbs.md)
 
 ## Team Name: The prosperous ones
 
@@ -29,7 +29,7 @@ This project is a user friendly and easy to navigate website with a quality cont
 
 ## Team Logo:
 
-[link]
+[!link](https://github.com/RaghunandanKumar/Online-Learning/blob/master/images/logo.jpg)
 
 ## Roles:
 
@@ -44,7 +44,7 @@ Our Project charter shows the purpose, objectives, goals, scope, project budget,
 
 ## Project Charter Link:
 
-[link]
+[Project Charter Link](https://github.com/RaghunandanKumar/Online-Learning/blob/master/docs/ProjectCharter.md)
 
 ## Team Communication and Participation:
 
